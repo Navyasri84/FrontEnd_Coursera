@@ -1,0 +1,31 @@
+p{
+    color: brown;
+}
+
+#latest { 
+    color: green; 
+}
+
+.navigation { 
+    margin: 2px;
+}
+
+p.introduction { 
+    margin: 2px;
+}
+
+#blog h1 {
+    color: blue;
+}
+
+#blog div h1 {
+    color: blue;
+}
+
+#blog > h1 {
+    color: blue;
+}
+
+p{ 
+    color: rgba(255, 0, 0, 128); 
+}
