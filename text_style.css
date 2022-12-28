@@ -1,0 +1,25 @@
+/* Text Transformation */
+p{ 
+    text-transform: uppercase;
+}
+
+/* Text Decoration */
+p { 
+    text-decoration: underline;
+  }
+  /* or */
+p{ 
+    text-decoration: underline red solid 5px;
+}
+
+p { 
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+}
+
+/* text align */
+p {
+    text-align: center;
+}
